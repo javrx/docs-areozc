@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ya7rri.cnkitawin.online/sitemap.xml
